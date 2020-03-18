@@ -1,0 +1,4 @@
+依次替换源文件
+..\\Python37\Lib\site-packages\SeleniumLibrary\keywords\element.py
+..\\Python37\Lib\site-packages\SeleniumLibrary\keywords\waiting.py
+..\\Python37\Lib\site-packages\SeleniumLibrary\base\context.py
