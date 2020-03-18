@@ -1,4 +1,7 @@
 依次替换源文件
 ..\\Python37\Lib\site-packages\SeleniumLibrary\keywords\element.py
 ..\\Python37\Lib\site-packages\SeleniumLibrary\keywords\waiting.py
+..\\Python37\Lib\site-packages\SeleniumLibrary\keywords\webdrivertools.py
 ..\\Python37\Lib\site-packages\SeleniumLibrary\base\context.py
+
+webdrivertools.py增加了部分参数，使运行时去掉浏览器正在被控制提示【不强制要求替换】,且增加了谷歌非GUI模式，只需要将打开浏览器chrome改为headlesschrome即可实现
